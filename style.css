@@ -12,24 +12,12 @@ body{
     padding-right: 50px;
     padding: 70px;
     padding-top: 50px;
-    margin-right: 250px;
-    margin-left: 250px;
+    margin-right: 10%;
+    margin-left: 10%;
     margin-top: 50px;
     font-size: 18px;
     text-align: left;
   
 }
 
-@media only screen and (max-width: 950px) {
-   #demo {
-      padding-left: 10%;
-      padding-right: 10%;
-   }
-}
 
-@media only screen and (max-width: 600px) {
-   #demo {
-      padding-left: 10px;
-      padding-right: 10px;
-   }
-}
