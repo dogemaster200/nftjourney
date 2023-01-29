@@ -20,3 +20,16 @@ body{
   
 }
 
+@media only screen and (max-width: 950px) {
+   #demo {
+      padding-left: 10%;
+      padding-right: 10%;
+   }
+}
+
+@media only screen and (max-width: 600px) {
+   #demo {
+      padding-left: 10px;
+      padding-right: 10px;
+   }
+}
